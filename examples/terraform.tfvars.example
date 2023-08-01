@@ -1,0 +1,10 @@
+ipv4_address  = "172.16.204.73"
+ipv4_mask     = 24
+ipv4_gw       = "172.16.204.1"
+computer_name = "ninjadude"
+vmName        = "test"
+vmFolder      = "LABS/David Gidony"
+vmTemplate    = "Server2019-template"
+vsphereUser   = "xyz@vsphere.local"
+vspherePass   = "Password"
+vsphereAddr   = "ts-vc-01.vsphere.local"
